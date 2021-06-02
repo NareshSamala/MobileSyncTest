@@ -1,0 +1,11 @@
+{
+  "platformName": "Android",
+  "platformVersion": "11",
+  "deviceName": "Default2 ",
+  "app": "D:\\Sync\\Sync_base.apk",
+  "device": "sdk_gphone_x86_arm",
+  "appPackage": "com.sync.mobileapp",
+  "appActivity": "com.sync.mobileapp.activities.SplashActivity",
+  "noSign": "false",
+  "noReset": "false"
+}
